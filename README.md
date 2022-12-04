@@ -1,6 +1,6 @@
 # Search-Directories
 
-<code><img width="20%" src="https://lh3.googleusercontent.com/oBTelXIUiT58LsTfLrIXKwlVJtEWhr8mof4JlnBoMQrX74KkTPVvwqonUZw575IL-boeCugaC5dDXtrJJzU06q6N22pcCwZAYCayxJj7"></code>
+<code><img width="20%" src="https://lh3.googleusercontent.com/y_tnx3Mc2kUsgQShmXzIEac6tYTfrcMNMPBR9JPAfMUSDQxIvlEPmpfPoJJYcs9dioMsPmfUNkqdnHL74zAJBv-yhP8rw9Rqu29gJ7TG"></code>
 
 ## O SearchDir é uma ferramenta de hacking simples para escanear diretórios nos sites!
 
