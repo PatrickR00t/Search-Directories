@@ -1,6 +1,3 @@
 # Search-Directories
 
-  / ___/___  ____ ___________/ /_  / __ \(_)____
-  \__ \/ _ \/ __ `/ ___/ ___/ __ \/ / / / / ___/
- ___/ /  __/ /_/ / /  / /__/ / / / /_/ / / /    
-/____/\___/\__,_/_/   \___/_/ /_/_____/_/_/  
+<code><img width="10%" src="https://lh3.googleusercontent.com/ZO3hOlQENwS4AWP58m5HA9z_E9rSViU-COyIHFTi8CypIU6fxepR4i3UIxgGfREU7h2xHrdaARDh20q7cs00d-evo6ibK9Z0V0GHtCjOzw"></code>
