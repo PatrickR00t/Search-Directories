@@ -11,4 +11,4 @@
     * `cd Search-Directories`
 
 2. Para usar esta ferramenta, basta digitar:
-  * `python3 SearchDir.py`
+   * `python3 SearchDir.py`
